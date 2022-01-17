@@ -1,0 +1,52 @@
+body{
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(37, 37, 85);
+}
+#container{
+    margin-top: 15%;
+}
+#time{ 
+    justify-content: center;
+    text-align: center;
+}
+.num{
+    color: silver;
+    font-size: 30vh;
+}
+#txt{
+    color: silver;
+    font-size: 15vh;
+}
+button{
+    margin-top: 20px;
+    cursor:pointer;
+}
+#start{
+  color: #ffff;
+  background-color: rgb(60, 172, 134);
+  font-size: 4vh;
+}
+
+#stop{
+    color: #ffff;
+    background-color: rgb(10, 94, 219);
+    font-size: 4vh;
+  }
+
+#reset{
+    color: #ffff;
+    background-color: rgb(250, 0, 0);
+    font-size: 4vh;
+    /* border-radius: 50px; */
+  }
+#lap{
+    color: #ffff;
+    background-color: rgb(19, 89, 107);
+    font-size: 4vh;
+    /* border-radius: 50px; */
+  }
+#lapItem{
+    color: #ffff;
+    font-size: 4vh;
+}  
